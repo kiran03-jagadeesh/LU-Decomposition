@@ -1,8 +1,7 @@
 # LU Decomposition without zero on the diagonal
 
 ## AIM:
-To write a program to find the LU Decomposition of a matrix.
-
+To write a program to use LU Decomposition to find L and U matrix.
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
@@ -40,10 +39,10 @@ RegisterNumber: 21500363
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
 
-# LU Decomposition without zero on the diagonal
+# LU Decomposition to solve a matrix
 
 ## AIM:
-To write a program to find the LU Decomposition of a matrix.
+To write a program to use LU Decomposition to solve a matrix.
 
 ## Equipments Required:
 1. Hardware – PCs
